@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+
+
 }
 
 .App-logo {
@@ -26,6 +28,35 @@
 
 .App-link {
   color: #61dafb;
+}
+.employee{
+  border: solid black;
+  
+ 
+}
+.img{
+  height: 50px;
+  width: 50px;
+}
+.img1{
+  padding-top: 80px;
+  height: 300px;
+  width: 300px;
+}
+.empList{
+  height: 50px;
+width: 50%;
+}
+.empProfile{
+  height: 50px;
+  width: 50%;
+  border: solid purple;
+}
+.container{
+  display: flex;
+}
+.title{
+  height: 55px;
 }
 
 @keyframes App-logo-spin {
